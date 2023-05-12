@@ -69,7 +69,8 @@ public class GameManager : MonoBehaviour
 }
 ```
  ## Output:
- ![ex3,1](https://github.com/Sanjay-shankar-ai/PingPongGame/assets/94231938/21875524-7f04-4db5-9381-653c1fd6cd5d)
+![ex3,1](https://github.com/Sanjay-shankar-ai/PingPongGame/assets/94231938/48552879-f28e-4bd6-b32f-da22c25d5095)
+
 
  
  ## Result:
